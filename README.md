@@ -5,7 +5,7 @@ Tracking system built using the ESP32 SoC from Espressif and web technologies. I
 **This is still on development.**
 
 ## Roadmap
-- [] Design the system
-- [] Develop code for the physical module
-- [] Develop code for the web module
-- [] Test
+- [ ] Design the system
+- [ ] Develop code for the physical module
+- [ ] Develop code for the web module
+- [ ] Test
